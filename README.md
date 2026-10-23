@@ -49,8 +49,10 @@ Microsoft Copilot · GitHub Copilot · OneStream · SAP Analytics Cloud
 
 * M.Sc. Data Science in Business and Economics, University of Tübingen
 * B.Sc. Economics and Business Administration, University of Tübingen
-* GARP Financial Risk Manager (FRM) Part I — Passed
+* **GARP Financial Risk Manager (FRM) Exam Part I — Passed (2023)** · [Official GARP Digital Badge](https://my.garp.org/DigitalBadgeFRMI?id=0035d00006bB6BiAAK)
 * SAS Certified Specialist: Base Programming Using SAS 9.4
+
+**Verified Certifications:** [View my Credly profile](https://www.credly.com/users/mauriceschmetzer)
 
 ## What I Use GitHub For
 
@@ -60,3 +62,6 @@ I use this profile to document projects that combine finance, data science, and 
 
 * LinkedIn: [linkedin.com/in/maurice-schmetzer](https://www.linkedin.com/in/maurice-schmetzer/)
 * GitHub: [github.com/mauriceschmetzer](https://github.com/mauriceschmetzer)
+* Credly: [credly.com/users/mauriceschmetzer](https://www.credly.com/users/mauriceschmetzer)
+
+[![FRM Exam Part I Passed](https://img.shields.io/badge/GARP-FRM%20Exam%20Part%20I%20Passed-005A5A?style=for-the-badge)](https://my.garp.org/DigitalBadgeFRMI?id=0035d00006bB6BiAAK)
